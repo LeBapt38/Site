@@ -1,0 +1,10 @@
+{
+    "header_role" : "Physics student",
+    "header_nav_top" : "Intro",
+    "header_nav_about" : "About Me",
+    "header_nav_portfolio" : "Portfolio",
+
+    "intro_title" : "Hi! I'm <strong>Baptiste Guilleminot</strong>, a physics student at the magister of fondamental physics of Paris-Saclay.",
+    "intro_subtitle" : "I'm passionate about theoritical physics. I like to share this with others through this site and <a href = \"https://www.youtube.com\">my youtube chanel.</a>",
+    "intro_button" : "About me"
+}

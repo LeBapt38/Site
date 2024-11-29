@@ -4,12 +4,13 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="en">
 	<head>
-		<title>Prologue by HTML5 UP</title>
+		<title>Baptiste Guilleminot</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script defer src="assets/js/script.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -23,18 +24,22 @@
 							<span class="image avatar48"><img src="images/avatar.jpeg" alt="" /></span>
 							<h1 id="title">Baptiste</h1>
 							<h1 id="title">Guilleminot</h1>
-							<p>Physics student</p>
+							<p id="header_role">Physics student</p>
 						</div>
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
-								<li><a href="#about" id="about-link"><span class="icon solid fa-user">About Me</span></a></li>
-								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+								<li><a href="#top" id="top-link"><span id="header_nav_top" class="icon solid fa-home">Intro</span></a></li>
+								<li><a href="#about" id="about-link"><span id="header_nav_about" class="icon solid fa-user">About Me</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link"><span id="header_nav_portfolio" class="icon solid fa-th">Portfolio</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
+						<div>
+							<button onclick="loadLanguage('en')">En</button>
+							<button onclick="loadLanguage('fr')">Fr</button>
+						</div>
 
 				</div>
 
@@ -60,15 +65,15 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! I'm <strong>Baptiste Guilleminot</strong>, a physics student <br/>
+								<h2 id="intro_title" class="alt">Hi! I'm <strong>Baptiste Guilleminot</strong>, a physics student <br/>
 								at the magister of fondamental physics of Paris-Saclay.<br />
 								</h2>
-								<p>I'm passionate about theoritical physics. I like to share this with others<br />
+								<p id="intro_subtitle">I'm passionate about theoritical physics. I like to share this with others<br />
 								through this site and <a href = "https://www.youtube.com">my youtube chanel.</a></p>
 							</header>
 
 							<footer>
-								<a href="#about" class="button scrolly">About me</a>
+								<a id="intro_button" href="#about" class="button scrolly">About me</a>
 							</footer>
 
 						</div>

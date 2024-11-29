@@ -1,0 +1,10 @@
+{
+    "header_role" : "Etudiant en physique",
+    "header_nav_top" : "Introduction",
+    "header_nav_about" : "A mon propos",
+    "header_nav_portfolio" : "Projets",
+
+    "intro_title" : "Bonjour!! Je m'appelle <strong>Baptiste Guilleminot</strong>, je suis étudiant au magistère de physique fondamentale de Paris-Saclay.",
+    "intro_subtitle" : "Je suis passionné de physique théorique. J'adore partager cette passion avec d'autres à travers ce site et <a href = \"https://www.youtube.com\">ma chaine youtube.</a>",
+    "intro_button" : "A mon propos"
+}
