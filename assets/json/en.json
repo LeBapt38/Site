@@ -6,5 +6,25 @@
 
     "intro_title" : "Hi! I'm <strong>Baptiste Guilleminot</strong>, a physics student at the magister of fondamental physics of Paris-Saclay.",
     "intro_subtitle" : "I'm passionate about theoritical physics. I like to share this with others through this site and <a href = \"https://www.youtube.com\">my youtube chanel.</a>",
-    "intro_button" : "About me"
+    "intro_button" : "About me",
+
+    "about_title": "About me",
+    "about_par1": "I'm a physics student at master 1 level in the track \"magister of fondamental physics\" at the university of Paris Saclay. I always loved Physics and maths. I have always watched videos and read books about these subjects. As I learned, I turned more and more toward theoritical physics, reading about field theories and symmetries outside of my classes.",
+    "about_par2": "I also like coding. I can't say that I'm an experienced coder however I have done a couple of projects in python and C++. You can take a look at my <a href=\"https://github.com/LeBapt38\"> GitHub</a> page if you want.",
+    "about_career":"Career",
+    "about_time2": "2024 (2 months)", 
+    "about_career1": "Magister of fondamental physics at the university of Paris-Saclay",
+    "about_career2": "Internship in the department of geophysics of the university of Zurich",
+    "about_career3": "Preparatory classes in maths and physics at lycée Champollion, Grenoble.",
+    "about_career4": "Scientific high school degree at the lycée Ambroise-Croizat, Moûtiers. Mountaineering sport-study track.",
+
+    "portfolio_par1": "In this part, I give access to a couple of projects I have done during classes or outside. It is neither a complete overview nor an exact reflection of my current center of interest. It however shows my way of thinking and solving problems.",
+    "portfolio_par2": "The projects are organised by types and ordered from newer to older.",
+    "portfolio_title1": "Internships",
+    "portfolio_projet11": "Vers un simulateur de substitution pour les écoulements gravitaires.",
+    "portfolio_title2": "Class projects",
+    "portfolio_projet21": "AI from scratch in C",
+    "portfolio_title3": "Other projects",
+
+    "contact_par1": "If you have questions about physics topics or about things I posted, don't hesitate to email me at : baptiste.guilleminot@gmail.com"
 }
