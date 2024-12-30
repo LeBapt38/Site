@@ -5,12 +5,12 @@
     "header_nav_portfolio": "Projets",
 
     "intro_title": "Bonjour!! Je m'appelle <strong>Baptiste Guilleminot</strong>, je suis étudiant au magistère de physique fondamentale de Paris-Saclay.",
-    "intro_subtitle": "Je suis passionné de physique théorique. J'adore partager cette passion avec d'autres à travers ce site et <a href = \"https://www.youtube.com\">ma chaine youtube.</a>",
+    "intro_subtitle": "Je suis passionné de physique théorique. J'adore partager cette passion avec d'autres à travers ce site et <a href = \"https://www.youtube.com/channel/UCgVX2h49AZHhE_UjQGxWZ5g\">ma chaine youtube.</a>",
     "intro_button": "A mon propos",
 
     "about_title": "A mon propos",
-    "about_par1": "Je suis étudiant en M1 au sein du magistère de physique fondamentale de Paris-Saclay. J'ai toujours aimer les maths et la physique. J'ai pendant longtemps regardé des vidéos de vulgarisation ainsi que des livres. En plus de mes cours, je me renseigne actuellement sur la théorie quantique des champs et sur le role des simmétries en physique quantique.",
-    "about_par2": "J'aime également coder. Je ne suis pas très expérimenté mais j'ai fait deux trois projets en python et C++. Si vous voulez, vous pouvez aller voir ma page <a href=\"https://github.com/LeBapt38\">GitHub</a>.",
+    "about_par1": "Je suis étudiant en M1 au sein du magistère de physique fondamentale de Paris-Saclay. J'ai toujours aimé les maths et la physique. J'ai pendant longtemps regardé des vidéos de vulgarisation ainsi que des livres. En plus de mes cours, je me renseigne actuellement sur la théorie quantique des champs et sur le rôle des symétries en physique quantique.",
+    "about_par2": "J'aime également coder. Je n'ai pas autant d'expérience dans ce domaine mais j'ai fait deux trois projets en python et C++. Si vous voulez, vous pouvez aller voir ma page <a href=\"https://github.com/LeBapt38\">GitHub</a>.",
     "about_career":"Cursus",
     "about_time2": "2024 (2 mois)", 
     "about_career1": "Magistère de physique fondamentale à l'université de Paris-Saclay.",
@@ -18,14 +18,15 @@
     "about_career3": "CPGE en filière MP au Lycée Champollion, Grenoble.",
     "about_career4": "BAC scientifique au lycée général Ambroise-Croisat , Moutiers. Cursus sport-étude montagne.",
 
-    "portfolio_par1": "Dans cette partie, je présente un certain nombre de projet que j'ai réalisé. Ces projets ne couvrent pas tous les sujets sur lesquelles j'ai travailé. La proportion de sujet relier à l'informatique est aussi disproportionné par rapport à mes centres d'intérèts actuels. Je pense cependant que cette liste de projet donne une bonne idée de ma manière d'aborder un problème.",
-    "portfolio_par2": "Les projets sont classées par type et rangé du plus récent au plus ancien.",
+    "portfolio_par1": "Dans cette partie, je présente un certain nombre de projets que j'ai réalisé. Ces projets ne couvrent pas tous les sujets sur lesquels j'ai travaillé. La proportion de sujet relier à l'informatique est aussi disproportionnée par rapport à mes centres d'intérêts actuels. Je pense cependant que cette liste de projet donne une bonne idée de ma manière d'aborder un problème.",
+    "portfolio_par2": "Les projets sont classés par type et rangés du plus récent au plus ancien.",
     "portfolio_title1": "Stages",
     "portfolio_projet11": "Vers un simulateur de substitution pour les écoulements gravitaires.",
     "portfolio_title2": "Projets scolaires",
     "portfolio_projet21": "Librairies IA \"from scratch\" en C",
     "portfolio_projet22": "Modèle d'Ising avec algorithme de Metropoolis",
     "portfolio_title3": "Autres projets",
+    "portfolio_project31" : "Cours sur la première quantification",
 
     "contact_par1": "Si vous avez des questions par rapport à des sujets traiter ci dessus, n'hésiter pas à me contacter par mail : baptiste.guilleminot@gmail.com"
 

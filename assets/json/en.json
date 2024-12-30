@@ -5,7 +5,7 @@
     "header_nav_portfolio" : "Portfolio",
 
     "intro_title" : "Hi! I'm <strong>Baptiste Guilleminot</strong>, a physics student at the magister of fondamental physics of Paris-Saclay.",
-    "intro_subtitle" : "I'm passionate about theoritical physics. I like to share this with others through this site and <a href = \"https://www.youtube.com\">my youtube chanel.</a>",
+    "intro_subtitle" : "I'm passionate about theoritical physics. I like to share this with others through this site and <a href = \"https://www.youtube.com/channel/UCgVX2h49AZHhE_UjQGxWZ5g\">my youtube chanel.</a>",
     "intro_button" : "About me",
 
     "about_title": "About me",
@@ -26,6 +26,7 @@
     "portfolio_projet21": "AI from scratch in C",
     "portfolio_projet22": "Ising model with Metropolis algorithm",
     "portfolio_title3": "Other projects",
+    "portfolio_project31" : "Course on the first quantization",
 
     "contact_par1": "If you have questions about physics topics or about things I posted, don't hesitate to email me at : baptiste.guilleminot@gmail.com"
 }
