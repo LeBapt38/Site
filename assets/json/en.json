@@ -25,8 +25,10 @@
     "portfolio_title2": "Class projects",
     "portfolio_projet21": "AI from scratch in C",
     "portfolio_projet22": "Ising model with Metropolis algorithm",
+    "portfolio_projet23" : "Mesoscopic study of salt creeping", 
     "portfolio_title3": "Other projects",
     "portfolio_project31" : "Course on the first quantization",
+    "portfolio_project32" : "Course on elementary solutions for the d'Alembertien",
 
     "contact_par1": "If you have questions about physics topics or about things I posted, don't hesitate to email me at : baptiste.guilleminot@gmail.com"
 }

@@ -25,8 +25,10 @@
     "portfolio_title2": "Projets scolaires",
     "portfolio_projet21": "Librairies IA \"from scratch\" en C",
     "portfolio_projet22": "Modèle d'Ising avec algorithme de Metropoolis",
+    "portfolio_projet23" : "Etude mésoscopique du sel rampant",
     "portfolio_title3": "Autres projets",
     "portfolio_project31" : "Cours sur la première quantification",
+    "portfolio_project32" : "Cours sur la fonction de Green du d'Alembertien",
 
     "contact_par1": "Si vous avez des questions par rapport à des sujets traiter ci dessus, n'hésiter pas à me contacter par mail : baptiste.guilleminot@gmail.com"
 
